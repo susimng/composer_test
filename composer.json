@@ -1,0 +1,14 @@
+{
+    "name": "susimng/composer_test",
+    "autoload": {
+        "psr-4": {
+            "Susimng\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "susimng"
+        }
+    ],
+    "require": {}
+}
